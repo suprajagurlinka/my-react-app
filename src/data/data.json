@@ -1,0 +1,23 @@
+{
+    "profiles":[
+        {
+            "basic":{
+                "name":"Supraja G",
+                "role":"S Developer",
+                "phone":"63332145",
+                "email":"supraja@gmail.com",
+                "career":"to become the CEO"
+            }
+           
+        },
+        {
+            "basic":{
+                "name":"Sumaja G",
+                "role":"S Developer",
+                "phone":"522455255",
+                "email":"sumaja@gmail.com",
+                "career":"To become a s Developer"
+            }
+        }
+    ]
+}
