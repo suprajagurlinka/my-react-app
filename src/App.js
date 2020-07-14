@@ -71,13 +71,13 @@ function App() {
         {
           profile.map((value,index)=>(
             <div className="col-sm-10 col-md-4 col-lg-4 mt-1" key={index}>
-              <div className="card">
+              <div className="card pic">
               <div className="card-body">
-                <img src={Img} alt="profile" style={{width:"10em"}}></img>
-          <h2>{value.basic.name}</h2>
-          <h2>{value.basic.role}</h2>
-          <h2>{value.basic.phone}</h2>
-          <h2>{value.basic.email}</h2>
+                <img src={Img} alt="profile" style={{width:"8em"}}></img>
+          <h2 className="h3">{value.basic.name}</h2>
+          <h4 className="h3">{value.basic.role}</h4>
+          <a href="tel:6303930796">{value.basic.phone}</a><br></br>
+          <a href="mailto:suprajagurlinka5725@gmail.com">{value.basic.email}</a><br></br>
           <Link to={{pathname:"/resume",profilesData:{i:index} }}className="btn btn-primary">Profile</Link>
               </div>
               </div>

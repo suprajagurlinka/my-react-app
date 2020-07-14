@@ -6,7 +6,27 @@
                 "role":"S Developer",
                 "phone":"63332145",
                 "email":"supraja@gmail.com",
-                "career":"to become the CEO"
+                "career":"to become the CEO",
+                "institute":"Shri Vishnu Engineering College For Women",
+                "degree":"B.tech(I.T)",
+                    "passoutyear":"2018-2022",
+                    "percentile":"85%",
+                    "institute1":"Sri Chaitanya Junior Mahila Kalasala",
+                    "degree1":"Intermidiate",
+                    "passoutyear1":"2016-2018",
+                    "percentile1":"97.6%",
+                    "institute2":"Sri Chaitanya Highschools",
+                    "degree2":"SSC",
+                    "passoutyear2":"2015-2016",
+                    "percentile2":"10/10",
+                    "certificate":"Patient consultancy system project on web development",
+                    "certificate1":"Web developemnt course_vedic",
+                "certificate2":"Introduction to Cybersecurity Tools & Cyber Attacks",
+                "certificate3":	"Cybersecurity Roles, Processes & Operating System Security",
+				"certificate4":"Network Security & Database Vulnerabilities",
+				"certificate5":"Cybersecurity Compliance Framework & System Administration",
+				"certificate6":"IBM digital badges for cyber security",
+				"certificate7":"Lets_upgrade,FCS python"                    
             }
            
         },
@@ -16,7 +36,19 @@
                 "role":"S Developer",
                 "phone":"522455255",
                 "email":"sumaja@gmail.com",
-                "career":"To become a s Developer"
+                "career":"To become a s Developer",
+                "institute":"Shri Vishnu Engineering College For Women",
+                "degree":"B.tech",
+                    "passoutyear":"2022",
+                    "percentile":"85%",
+                    "institute1":"Sri Chaitanya Junior Mahila Kalasala",
+                    "degree1":"inter",
+                    "passoutyear1":"2018",
+                    "percentile1":"97.6%",
+                    "institute2":"Sri Chaitanya Highschools",
+                    "degree2":"10th",
+                    "passoutyear2":"2016",
+                    "percentile2":"10/10"
             }
         }
     ]
